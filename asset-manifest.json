@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/React-Internship-my-app/static/css/main.5f361e03.chunk.css",
+    "main.js": "/React-Internship-my-app/static/js/main.b7923b98.chunk.js",
+    "main.js.map": "/React-Internship-my-app/static/js/main.b7923b98.chunk.js.map",
+    "runtime-main.js": "/React-Internship-my-app/static/js/runtime-main.98f17bf1.js",
+    "runtime-main.js.map": "/React-Internship-my-app/static/js/runtime-main.98f17bf1.js.map",
+    "static/js/2.d2f996e7.chunk.js": "/React-Internship-my-app/static/js/2.d2f996e7.chunk.js",
+    "static/js/2.d2f996e7.chunk.js.map": "/React-Internship-my-app/static/js/2.d2f996e7.chunk.js.map",
+    "index.html": "/React-Internship-my-app/index.html",
+    "precache-manifest.3c91c5ff0d24635073cb15f4c11df893.js": "/React-Internship-my-app/precache-manifest.3c91c5ff0d24635073cb15f4c11df893.js",
+    "service-worker.js": "/React-Internship-my-app/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/React-Internship-my-app/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.d2f996e7.chunk.js.LICENSE.txt": "/React-Internship-my-app/static/js/2.d2f996e7.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.98f17bf1.js",
+    "static/js/2.d2f996e7.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.b7923b98.chunk.js"
+  ]
+}
