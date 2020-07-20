@@ -1,15 +1,16 @@
 import React, { useState } from "react";
 
 let StatesInFunction = () => {
-    const [count, setCount] = useState("Hi");
+    let [count, setCount] = useState(0);
     return (
         <div>
-            <h2
-                onMouseOver={() => setCount("What's Up?")}
-                onMouseLeave={() => setCount("Hi")}
-            >
+            <h2>
                 {count}
             </h2>
+            <br />
+            <button onClick={() => setCount(count+=1)}>Increment</button><br />
+            <button onClick={() => setCount(count -= 1)}>Decrement</button><br />
+            <button onClick={() => setCount(0)}>Reset</button>
         </div>
     )
 }
